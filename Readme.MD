@@ -97,7 +97,7 @@ pip install -r requirements.txt
 # Download pre-trained models
 python download_models.py
 ```
-
+<!-- 
 ### Usage
 ```bash
 # Run with webcam
@@ -108,8 +108,8 @@ python main.py --source path/to/image.jpg
 
 # Run with directory of images
 python main.py --source path/to/image/directory
-```
-
+``` -->
+<!--  -->
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to fork the repo, open issues, or submit pull requests.
