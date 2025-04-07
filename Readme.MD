@@ -4,6 +4,9 @@ A real-time computer vision system to detect FMCG and grocery items, extract cri
 ## Architecture Diagram
 ![Architecture Diagram](img/DOP_background.drawio.png)
 
+## Demo Video
+![Demo Video](img/output_video_with_detection-ezgif.com-video-to-gif-converter.gif)
+
 ## 🚀 Features
 
 - 🧠 **Object Detection** of FMCG and groceries using YOLOv5/YOLOv8
