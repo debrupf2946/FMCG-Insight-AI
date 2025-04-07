@@ -1,4 +1,4 @@
-# 🛒 SmartShelfVision
+# 🛒 FMCG-Insight-AI
 
 A real-time computer vision system to detect FMCG and grocery items, extract critical metadata (like expiry date, MFG, and price), and dynamically predict the freshness of perishable products.
 ## Architecture Diagram
